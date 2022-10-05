@@ -16,7 +16,7 @@ A CRUD operated inventory that displays a current list of cats borrowed from the
 
 ## Introduction
 
-What we have is a Cat Inventory site that is creating a multitude of cats from the data we fetched from the Cat API. We are able to give each cat to be categorized into it's own card. Each card details itself with more information as you are able to not only edit it but add a new source yourself.
+What we have is a Cat Inventory site that is creating a multitude of cats from the data was fetched from the Cat API. We are able to give each cat to be categorized into it's own card. Each card details itself with more information as you are able to not only edit it but add a new source yourself.
 
 
 
